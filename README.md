@@ -3,7 +3,7 @@ LaserHat 2000 Pro Edition
 
 A improvisational exploration into game development
 
-All code, all sounds, all art, created by Matt Dargen
+All code, all sounds, most images created by Matt Dargen (@dargennotdarjen)
 
 EXCEPT for:
   "Vexations", written by Erik Satie,
@@ -24,7 +24,7 @@ enemy of crustaceans and Bill O Reilly
 #### TO PLAY LASER HAT ####
 You will need:
 
-1. Python 3.4
+1. Python 3.4 (https://www.python.org/download/releases/3.4.0/)
 2. Pygame (you'll need the unofficial 3.4 version - http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame)
 
 And then, just run main.py,
