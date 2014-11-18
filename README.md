@@ -9,7 +9,7 @@ EXCEPT for:
   "Vexations", written by Erik Satie,
     arranged for LaserHat 2000 Pro Edition by Matt Dargen
     
-  Bill O Reilly's head, created by Mom and Dad O Reilly,
+  Bill O'Reilly's head, created by Mom and Dad O'Reilly,
     crudely cut out in MS Paint by Matt Dargen
 
 
@@ -18,8 +18,9 @@ that started as an attempt to answer the question:
 "Can I just write a program where I move around a thing?"
 That thing was a disgusting plaid fedora.  That fedora is now LaserHat,
 defender of a universe, champion of truth,
-enemy of crustaceans and Bill O Reilly
+enemy of crustaceans and Bill O'Reilly
 
+Disclaimer: I don't hate Bill O'Reilly, and this game is not intended to "bash" Bill... However, I do hate his disembodied head.
 
 #### TO PLAY LASER HAT ####
 You will need:
