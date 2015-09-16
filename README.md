@@ -3,7 +3,7 @@ LaserHat 2000 Pro Edition
 
 A improvisational exploration into game development
 
-All code, all sounds, most images created by Matt Dargen (@dargennotdarjen)
+All code, all sounds, most images created by Matt Dargen (twitter & IG: @ddaarrggeenn)
 
 EXCEPT for:
   "Vexations", written by Erik Satie,
@@ -20,7 +20,7 @@ That thing was a disgusting plaid fedora.  That fedora is now LaserHat,
 defender of a universe, champion of truth,
 enemy of crustaceans and Bill O'Reilly
 
-Disclaimer: I don't hate Bill O'Reilly, and this game is not intended to "bash" Bill... However, I do hate his disembodied head.
+Disclaimer: I don't hate Bill O'Reilly.  This game is not about "bashing" Billo.  It is about "shooting him with lasers from a hat"
 
 #### TO PLAY LASER HAT ####
 You will need:
@@ -31,5 +31,7 @@ You will need:
 And then, just run main.py,
 make sure the directory structure looks just like it does in the repository,
 and you should be good 2 go
+
+it's ok if this game makes you want to give me a job
 
 peace
